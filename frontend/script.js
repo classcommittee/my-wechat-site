@@ -1,5 +1,5 @@
 // ===== 配置 =====
-const API_BASE = 'https://你的后端域名.com/api'; // 改成你的后端地址
+const API_BASE = 'https://my-wechat-api.class-committee.workers.dev/api';
 
 // ===== 工具函数 =====
 function apiFetch(endpoint, options = {}) {
